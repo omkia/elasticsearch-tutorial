@@ -8,8 +8,8 @@
 4. Elasticsearch 7.6
 5. Postman
 
-## Download and install the .zip elasticsearch package
-
+## Download and install 
+Download and install the .zip elasticsearch package
 ### Download
 
 Download the .zip archive for Elasticsearch v7.9.0 from: 
