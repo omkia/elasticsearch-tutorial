@@ -1,4 +1,4 @@
-resources for learning BERT
+**Resources for learning BERT:**
 
 first you need to understand deep learning so we recommend deep learning specialization by Andrew Ng in coursera
 
@@ -19,3 +19,17 @@ now you are ready to face new achivements in language processing
   http://jalammar.github.io/illustrated-transformer/
 
   http://jalammar.github.io/illustrated-bert/
+
+**google colab codes**
+
+how word2vec(english) works
+
+https://colab.research.google.com/github/chainer-community/chainer-colab-notebook/blob/master/official_example_en/word2vec.ipynb
+
+how BERT works
+
+https://colab.research.google.com/drive/1ZQvuAVwA3IjybezQOXnrXMGAnMyZRuPU?usp=sharing
+
+how ELMO works
+
+https://colab.research.google.com/drive/13f6dKakC-0yO6_DxqSqo0Kl41KMHT8A1?usp=sharing
