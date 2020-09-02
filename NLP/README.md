@@ -1,7 +1,7 @@
 # Definition of the coreference resolution
 Coreference is defined as occurring when one or more expressions in a document refer to the entity that preceded it/them. Coreference accuracy, then, is the task of finding all expressions that correspond to any of the entities present in a given text. While this problem definition seems simple enough, the nomenclature in papers regarding reference solutions is often very confusing. Its visualization makes things a little easier to understand:
 
-! [] (/ imgs / nomenclature.png)
+![](/NLP/imgs/nomenclature.png)
 
 Words are colored according to whether or not they are entities. Different colored word groups are members of the same reference group. Entities that are the only member of their group are known as "single" entities.
 
