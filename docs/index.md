@@ -6,7 +6,7 @@
 2. Pycharm
 3. Postman
 4. Elasticsearch 7.6
-5. Postman
+
 
 ## Download and install 
 Download and install the .zip elasticsearch package
